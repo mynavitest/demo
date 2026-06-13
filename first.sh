@@ -5,4 +5,5 @@ mkdir $a
 cd $a
 touch readme.md
 cd ..
+don
 done
