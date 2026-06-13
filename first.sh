@@ -5,4 +5,4 @@ mkdir $a
 cd $a
 touch readme.md
 cd ..
-donea
+done
